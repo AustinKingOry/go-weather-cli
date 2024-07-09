@@ -8,7 +8,7 @@ import (
     "os"
 )
 
-const apiKey = "b7f63c36e08263b6cfac499387649412"
+const apiKey = "7169fa020d30957abbc8d193d4a893cb"
 
 type WeatherResponse struct {
     Name string `json:"name"`
